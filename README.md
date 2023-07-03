@@ -9,7 +9,7 @@ Albert Bastida
 
 # Ejemplo en vivo 💻
 
-- <a href="#"> Landing Page </a>
+- <a href="https://marfil92.github.io/landing-page/"> Landing Page </a>
 
 # Instalación ⏬
 Este proyecto **no necesita de instalación**. Simplemente abre la carpeta o haz **doble click** en el archivo *.html* para poder ejecutarlo.

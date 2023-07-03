@@ -206,21 +206,21 @@ footer a:hover {
 }
 
 #image1 {
-    background-image: url(/img/photo1.webp);background-position: center;
+    background-image: url(https://marfil92.github.io/landing-page/img/photo1.webp);background-position: center;
     background-size: cover;
 }
 
 #image2 {
-    background-image: url(/img/photo2.webp);background-position: center;
+    background-image: url(https://marfil92.github.io/landing-page/img/photo2.webp);background-position: center;
     background-size: cover;
 }
 
 #image3 {
-    background-image: url(/img/photo3.webp);background-position: center;
+    background-image: url(https://marfil92.github.io/landing-page/img/photo3.webp);background-position: center;
     background-size: cover;
 }
 
 #image4 {
-    background-image: url(/img/photo4.jpeg);background-position: center;
+    background-image: url(https://marfil92.github.io/landing-page/img/photo4.jpeg);background-position: center;
     background-size: cover;
 }
